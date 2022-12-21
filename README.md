@@ -1,5 +1,6 @@
 ### Salut tout le monde. Je suis Clement DINDANE debutant en code et programmation 👋
-![alt txt](http://picsum.photos/200/200)
+![alt txt](http://picsum.photos/200/20![Cwcvb](https://user-images.githubusercontent.com/119686461/208943587-930c4d33-2149-4669-86d4-b6ddc532c95f.jpg)
+0)
 <!--
 **clemsddn/clemsddn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
