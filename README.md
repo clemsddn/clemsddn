@@ -1,5 +1,6 @@
 ### Salut tout le monde. Je suis Clement DINDANE debutant en code et programmation 👋
 [bienvennue]((https://th.bing.com/th/id/R.15077c7b3736a1bb7ee572d3c164fb55?rik=YlyJRvbhoYCEGQ&pid=ImgRaw&r=0)
+<b>Bonjour</b>
 <!--
 **clemsddn/clemsddn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
