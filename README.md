@@ -1,5 +1,5 @@
 #Salut tous le monde !
-##Mon non est Clement DINDANE. <img src="https://flickreel-images.s3.amazonaws.com/wp-content/uploads/2015/07/2000px-Emoji_u1f605.svg_.png" alt="Un sourire" width="40px" height="40px">
+##Mon non est Clement DINDANE. <img src="https://th.bing.com/th/id/R.52cb966d094c1c957c08dca0b187dc1c?rik=c%2bSVcTw0Hy6Exg&pid=ImgRaw&r=0" alt="Un sourire" width="30px" height="30px">
 ##
 
 
